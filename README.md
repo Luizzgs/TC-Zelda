@@ -10,7 +10,6 @@
 4. [Instruções](#Instruções)
 
 ## Introdução
-
 Trabalho feito para a matéria de Teoria da Computação, inspirado no jogo Zelda clássico utilizando autômatos.
 
 ## Linguagens
@@ -19,7 +18,7 @@ Trabalho feito para a matéria de Teoria da Computação, inspirado no jogo Zeld
 Feito em Javascript puro sem qualquer dependência, utiliza sprites para definir o mundo e o jogador.
 
 ## Características
-
+    
 
 
 
@@ -27,7 +26,6 @@ Feito em Javascript puro sem qualquer dependência, utiliza sprites para definir
 
 
     ``` javascript
-      //Cria o cenario
     const cenario = {
         spriteX: 0,
         spriteY: 0,
@@ -48,9 +46,8 @@ Feito em Javascript puro sem qualquer dependência, utiliza sprites para definir
             cenario.x, cenario.y, //Posição 
             cenario.largura, cenario.altura, //Tamanho
         );
-    }
-}
-      
+        }
+    } 
     ```
 
 
