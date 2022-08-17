@@ -60,7 +60,7 @@ function executaAutomato(event){
                 ...
 ```
 
-* Se a palavra for rejeitada o jogador não irá fazer nenhum movimento, e o input de palavras será reiniciado.
+* Se a palavra for rejeitada, o jogador não irá fazer nenhum movimento, e o input de palavras será redefinido.
 ```javascript
 else {
         resposta = "REJEITA";
