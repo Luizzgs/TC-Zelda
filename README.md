@@ -24,8 +24,8 @@ Feito em Javascript puro sem qualquer dependência, utiliza sprites para definir
 
 
 <br/> 
-
-
+**Cenário:**
+```javascript
     const cenario = {
         spriteX: 0,
         spriteY: 0,
@@ -48,8 +48,7 @@ Feito em Javascript puro sem qualquer dependência, utiliza sprites para definir
         );
         }
     } 
-   
-
+```
 
     //Verifica se a palavra pertence ao alfabeto
     function verificaAlfabeto(w) {
