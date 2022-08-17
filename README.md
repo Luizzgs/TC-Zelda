@@ -15,7 +15,7 @@ Trabalho feito para a matéria de Teoria da Computação, inspirado no jogo Zeld
 ## Linguagens
 
 **Javascript** <br/> 
-Feito em Javascript puro sem qualquer dependência, utiliza sprites para definir o mundo e o jogador.
+Feito em Javascript puro sem qualquer dependência, utilizando a API Canvas para desenhar o mundo e o jogador com sprites.
 
 ## Características
 
