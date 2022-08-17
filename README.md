@@ -1,22 +1,22 @@
 # TC-Zelda
-[Zelda-JS live link!](https://matthew-sa.github.io/zelda-js/)
+
 </br>
 <img width="788" alt="Screen Shot 2020-03-30 at 10 17 57 PM" src="https://raw.githubusercontent.com/Luizzgs/TC-Zelda/main/images/Zelda_Preview.png">
 
-## Table of Contents
-1. [Introduction](#introduction)
-2. [Technologies](#technologies)
+## Tópicos
+1. [Introdução](#Introdução)
+2. [Linguagens](#Linguagens)
 3. [Features](#features)
 5. [Future Direction](#future-direction)
 
-## Introduction
+## Introdução
 
 Zelda-js is a raw javascript concept based on the classic NES title The Legend of Zelda.  This project includes the original's overworld, movement logic, basic enemies, minimap, and health system. Cave and underground areas are not currently accessable.
 
-## Technologies
+## Linguagens
 
 **Javascript** <br/> 
-Zelda-JS is built on raw javascript without extra dependencies or technologies.
+Feito em Javascript puro sem qualquer dependencia, utiliza sprites para definir o mundo e o jogador.
 
 ## Features
 * Full UI - Players can utilize a functional minimap, inventory, and lifebar. <img width="759" alt="Screen Shot 2020-03-30 at 10 28 42 PM" src="https://user-images.githubusercontent.com/47997709/77990306-d5df4080-72d5-11ea-84af-56d10f4e5d1d.png">
