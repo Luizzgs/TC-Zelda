@@ -7,7 +7,7 @@
 1. [Introdução](#Introdução)
 2. [Linguagens](#Linguagens)
 3. [Características](#Características)
-5
+4. [Instruções](#Instruções)
 
 ## Introdução
 
@@ -28,13 +28,13 @@ Feito em Javascript puro sem qualquer dependência, utiliza sprites para definir
 
     ``` javascript
       //Cria o cenario
-const cenario = {
-    spriteX: 0,
-    spriteY: 0,
-    largura: 720,
-    altura: 620,
-    x: 0,
-    y: 100,
+    const cenario = {
+        spriteX: 0,
+        spriteY: 0,
+        largura: 720,
+        altura: 620,
+        x: 0,
+        y: 100,
     
     desenha(){
         contexto.fillStyle = "black"
@@ -56,14 +56,14 @@ const cenario = {
 
     ``` javascript
     //Verifica se a palavra pertence ao alfabeto
-function verificaAlfabeto(w) {
-    if (alfabeto.includes(w)) {
-        return true;
+    function verificaAlfabeto(w) {
+        if (alfabeto.includes(w)) {
+            return true;
+        }
+        return false;
     }
-    return false;
-}
     ```
-## Future Direction
-* Collectable Items
-* Additional enemy types
-* Underground Areas
+    
+## Instruções
+
+
