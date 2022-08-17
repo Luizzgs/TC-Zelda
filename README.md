@@ -19,20 +19,15 @@ Feito em Javascript puro sem qualquer dependência, utiliza sprites para definir
 
 ## Características
     sad
-    
-
-
-
-<br/> 
-**Cenário:**
+**Bom:**
 ```javascript
-    const cenario = {
-        spriteX: 0,
-        spriteY: 0,
-        largura: 720,
-        altura: 620,
-        x: 0,
-        y: 100,
+const cenario = {
+    spriteX: 0,
+    spriteY: 0,
+    largura: 720,
+    altura: 620,
+    x: 0,
+    y: 100,
     
     desenha(){
         contexto.fillStyle = "black"
@@ -47,8 +42,14 @@ Feito em Javascript puro sem qualquer dependência, utiliza sprites para definir
             cenario.largura, cenario.altura, //Tamanho
         );
         }
-    } 
-```
+    }
+}
+
+
+
+<br/> 
+
+
 
     //Verifica se a palavra pertence ao alfabeto
     function verificaAlfabeto(w) {
