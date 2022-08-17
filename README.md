@@ -1,7 +1,7 @@
 # TC-Zelda
 
 </br>
-<img width="788" alt="Screen Shot 2020-03-30 at 10 17 57 PM" src="https://raw.githubusercontent.com/Luizzgs/TC-Zelda/main/images/Zelda_Preview.png">
+<img width="788" alt="Screen Shot 2020-03-30 at 10 17 57 PM" src="https://raw.githubusercontent.com/Luizzgs/TC-Zelda/main/images/Preview.png">
 
 ## Tópicos
 1. [Introdução](#Introdução)
