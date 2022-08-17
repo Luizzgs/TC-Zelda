@@ -18,6 +18,7 @@ Trabalho feito para a matéria de Teoria da Computação, inspirado no jogo Zeld
 Feito em Javascript puro sem qualquer dependência, utiliza sprites para definir o mundo e o jogador.
 
 ## Características
+    sad
     
 
 
@@ -25,7 +26,6 @@ Feito em Javascript puro sem qualquer dependência, utiliza sprites para definir
 <br/> 
 
 
-    ``` javascript
     const cenario = {
         spriteX: 0,
         spriteY: 0,
@@ -48,10 +48,9 @@ Feito em Javascript puro sem qualquer dependência, utiliza sprites para definir
         );
         }
     } 
-    ```
+   
 
 
-    ``` javascript
     //Verifica se a palavra pertence ao alfabeto
     function verificaAlfabeto(w) {
         if (alfabeto.includes(w)) {
@@ -59,7 +58,7 @@ Feito em Javascript puro sem qualquer dependência, utiliza sprites para definir
         }
         return false;
     }
-    ```
+
     
 ## Instruções
 
